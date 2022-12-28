@@ -1,5 +1,5 @@
 - 👋 Hey folks, I’m kavvya
-- 👀 I’m interested in web/full stack development, Data analytics, networking
+- 👀 I’m interested in web/full stack development, Data mining and Machine learning
 - 🌱 I’m currently learning AI methodologies, cloud networking and data mining concepts
 
 
