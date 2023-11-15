@@ -23,7 +23,7 @@
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-I am a Full Stack Developer and am passionate about building scalable and responsive web-design. I have 3+ years of experience in the software Industry as I started my career with [Aruba Networks](https://www.arubanetworks.com) and recently, I completed a 12-week internship at Amazon Robotics. I am currently pursuing my master's in computer science at [university of illinois at urbana-champaign](https://illinois.edu) and I would be graduating in Dec 2023. I am looking for **full-time software development positions**
+I am a Full Stack Developer and am passionate about building scalable and responsive web-design. I have **3+ years** of experience in the software Industry as I started my career with [Aruba Networks](https://www.arubanetworks.com) and recently, I completed a **12-week internship** at [Amazon Robotics](https://amazon.jobs/en/teams/amazon-robotics). I am currently pursuing my master's in computer science at [university of illinois at urbana-champaign](https://illinois.edu) and I would be graduating in Dec 2023. I am looking for **full-time software development positions**
 
 I love to travel, go on treks and collect souvenirs!!
 
