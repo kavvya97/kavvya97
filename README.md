@@ -2,9 +2,9 @@
 <h1> Hello ! I'm Kavvya Ramarathnam</h1>
 
 ### About
-I am a Software Development Engineer with focus on distributed systems and building scalable and fault-tolerant microservices. I work at Microsoft in security division and previously, interned at Amazon Robotics. I pursued master's in computer science at University of Illinois at urbana-champaign, where I worked as a Graduate Teaching Assistant under [Prof.Michael Woodley](https://www.linkedin.com/in/miwoodley/), guiding undergraduate students in their software development projects guiding undergraduate students in their software development projects. I also worked as a full-stack developer for 3 years at Aruba Networks.
+I am a Software Development Engineer with a focus on distributed systems and building scalable and fault-tolerant microservices. I work at Microsoft in the Security Division and previously, interned at Amazon Robotics. I pursued a master's in Computer Science at University of Illinois at Urbana-Champaign, where I worked as a Graduate Teaching Assistant under [Prof.Michael Woodley](https://www.linkedin.com/in/miwoodley/), guiding undergraduate students in their software development projects guiding undergraduate students in their software development projects. I also worked as a full-stack developer for 3 years at Aruba Networks.
 
-I enjoy contributing to open-source projects, as it allows me to collaborate with the community while honing my technical skills. As a full-stack engineer, I have expertise with both frontend and backend technologies like Python, C#, Javascript, Typescript, Node.js, Angular, React, SQL, MongoDB and PostGreSQL. I’ve gained experience designing and deploying microservice applications using Docker and Kubernetes.
+I enjoy contributing to open-source projects, as it allows me to collaborate with the community while honing my technical skills. As a full-stack engineer, I have expertise in both frontend and backend technologies like Python, C#, JavaScript, Typescript, Node.js, Angular, React, SQL, MongoDB and PostgreSQL. I’ve gained experience designing and deploying microservice applications using Docker and Kubernetes.
 
 ### Technical Skills
 
