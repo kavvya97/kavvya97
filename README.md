@@ -1,34 +1,56 @@
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=kavvya97.kavvya97)
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello ! Nice to see you</h1>
+<h1> Hello ! I'm Kavvya Ramarathnam</h1>
 
+### About
+I am a Software Development Engineer with focus on distributed systems and building scalable and fault-tolerant microservices. I work at Microsoft in security division and previously, interned at Amazon Robotics. I pursued master's in computer science at University of Illinois at urbana-champaign, where I worked as a Graduate Teaching Assistant under [Prof.Michael Woodley](https://www.linkedin.com/in/miwoodley/), guiding undergraduate students in their software development projects guiding undergraduate students in their software development projects. I also worked as a full-stack developer for 3 years at Aruba Networks.
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+I enjoy contributing to open-source projects, as it allows me to collaborate with the community while honing my technical skills. As a full-stack engineer, I have expertise with both frontend and backend technologies like Python, C#, Javascript, Typescript, Node.js, Angular, React, SQL, MongoDB and PostGreSQL. I’ve gained experience designing and deploying microservice applications using Docker and Kubernetes.
 
-I am a software developer at Microsoft and am passionate about building distributed, scalable and fault-tolerant applications. I have **3+ years** of experience in the software Industry as I started my career with [Aruba Networks](https://www.arubanetworks.com) and recently, I completed a **12-week internship** at [Amazon Robotics](https://amazon.jobs/en/teams/amazon-robotics). I pursued my master's in computer science at [university of illinois at urbana-champaign](https://illinois.edu).
+### Technical Skills
 
-I love to travel, go on treks and collect souvenirs!!
+![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
+![C#](https://img.shields.io/badge/c%23-239120?logo=csharp&logoColor=ffffff)
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=.net&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?slogo=typescript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=ffffff)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?logo=kubernetes&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=ffffff)
+![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?logo=gitlab&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=ffffff)
+![Gulp](https://img.shields.io/badge/Gulp-CF4647?logo=gulp&logoColor=ffffff)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=ffffff)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=ffffff)
+
+### Open Source Contributions
+
+I contributed to open source projects and assisted [Prof.Darko Marinov](https://www.linkedin.com/in/darko-marinov/) in Research project [Nondex](https://github.com/TestingResearchIllinois/NonDex). My contributions involved finding open source Java projects like Hadoop, Cloudstack etc., and running Nondex plugin to finding non-determinism in Java programs. I have also raised pull-requests (PR) to fix the non-determinism.
+
+PRs: 
+https://github.com/wkgcass/vjson/pull/1 
+https://github.com/jreleaser/jreleaser/pull/1530
+https://github.com/apache/cloudstack/pull/8238
+https://github.com/apache/hadoop/pull/6252
+
+Contributing PRs:
+https://github.com/apache/hadoop/pull/6215
+https://github.com/apache/cloudstack/pull/8232
+https://github.com/apache/cloudstack/pull/8185
+https://github.com/apache/cloudstack/pull/8183
+
 
 ### Find me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavvya-ramarathnam/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kavvya.ramarathnam@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavvya-ramarathnam/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:kavvya.ramarathnam@gmail.com)
