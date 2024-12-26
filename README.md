@@ -50,8 +50,8 @@ https://github.com/apache/cloudstack/pull/8232
 https://github.com/apache/cloudstack/pull/8185
 https://github.com/apache/cloudstack/pull/8183
 
-Other open source contributions:
-I have also contributed to open source libraries such as (daterangepicker)[https://github.com/dangrossman/daterangepicker]
+**Other open source contributions**:
+I have also contributed to open source libraries such as [daterangepicker](https://github.com/dangrossman/daterangepicker)
 https://github.com/dangrossman/daterangepicker/pull/2372
 
 ### Find me
