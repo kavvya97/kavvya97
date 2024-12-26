@@ -36,7 +36,7 @@ I enjoy contributing to open-source projects, as it allows me to collaborate wit
 
 ### Open Source Contributions
 
-I contributed to open source projects and assisted [Prof.Darko Marinov](https://www.linkedin.com/in/darko-marinov/) in Research project [Nondex](https://github.com/TestingResearchIllinois/NonDex). My contributions involved finding open source Java projects like Hadoop, Cloudstack etc., and running Nondex plugin to finding non-determinism in Java programs. I have also raised pull-requests (PR) to fix the non-determinism.
+I contributed to open source projects and assisted [Prof.Darko Marinov](https://www.linkedin.com/in/darko-marinov/) in one of his research project [Nondex](https://github.com/TestingResearchIllinois/NonDex). My contributions involved finding open source Java projects like Hadoop, Cloudstack etc., and running Nondex plugin to finding non-determinism in Java programs. I have also raised pull-requests (PR) to fix the non-determinism.
 
 PRs: 
 https://github.com/wkgcass/vjson/pull/1 
