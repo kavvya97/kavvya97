@@ -51,8 +51,8 @@ https://github.com/apache/cloudstack/pull/8185
 https://github.com/apache/cloudstack/pull/8183
 
 **Other open source contributions**:
-I have also contributed to open source libraries such as [daterangepicker](https://github.com/dangrossman/daterangepicker)
-https://github.com/dangrossman/daterangepicker/pull/2372
+I have also contributed new feature to enhance open source library [daterangepicker](https://github.com/dangrossman/daterangepicker).
+you can view my contribution [here](https://github.com/dangrossman/daterangepicker/pull/2372)
 
 ### Find me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavvya-ramarathnam/)
