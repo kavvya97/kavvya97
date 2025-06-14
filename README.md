@@ -1,12 +1,12 @@
 
 <h1> Hello ! Welcome to my Github page</h1>
 
-### About
+## About
 I am a Software Development Engineer with a focus on distributed systems and building scalable and fault-tolerant microservices. I work at Microsoft in the Security Division and previously, interned at Amazon Robotics. I pursued a master's in Computer Science at University of Illinois at Urbana-Champaign, where I worked as a Graduate Teaching Assistant under [Prof.Michael Woodley](https://www.linkedin.com/in/miwoodley/), guiding undergraduate students in their software development projects guiding undergraduate students in their software development projects. I also worked as a full-stack developer for 3 years at Aruba Networks.
 
 I enjoy contributing to open-source projects, as it allows me to collaborate with the community while honing my technical skills. As a full-stack engineer, I have expertise in both frontend and backend technologies like Python, C#, JavaScript, Typescript, Node.js, Angular, React, SQL, MongoDB and PostgreSQL. I’ve gained experience designing and deploying microservice applications using Docker and Kubernetes.
 
-### Technical Skills
+## Technical Skills
 
 ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
 ![C#](https://img.shields.io/badge/c%23-239120?logo=csharp&logoColor=ffffff)
@@ -34,7 +34,21 @@ I enjoy contributing to open-source projects, as it allows me to collaborate wit
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=ffffff)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=ffffff)
 
-### Open Source Contributions
+## 🧑‍💻 Professional Experience
+
+### Software Engineer, Microsoft Security  
+**July 2024 – Present**  
+
+### Robotics Software Engineering Intern, Amazon Robotics  
+**May 2023 – August 2023**  
+
+> 💬 *"Kavvya was great to work with during her 2023 summer internship. As her project mentor, I was working with her every day on her internship project, which was geared towards improving our team’s testing and deployment practices— no small feat in the physical world of robotics— using powerful testing constructs. I observed her ability to quickly pick up the details of a project, collect necessary information and uncover unknowns, collaborate within and outside the team, communicate project progress, and deliver a high-quality end product. Her sense of ownership over her work, and ability to deliver on a challenging project reflect her maturity and sense of motivation. She would be a great addition to any high-performing software engineering team."*  
+> — [Andrew Coggins](https://www.linkedin.com/in/andrew-coggins-669712107/), **Software Engineering II at Amazon**
+
+### Software Engineer, Aruba Networks  
+**July 2019 – July 2022**  
+
+## Open Source Contributions
 
 I contributed to open source projects and assisted [Prof.Darko Marinov](https://www.linkedin.com/in/darko-marinov/) in one of his research project [Nondex](https://github.com/TestingResearchIllinois/NonDex). My contributions involved finding open source Java projects like Hadoop, Cloudstack etc., and running Nondex plugin to finding non-determinism in Java programs. I have also raised pull-requests (PR) to fix the non-determinism.
 
@@ -57,3 +71,4 @@ you can view my contribution [here](https://github.com/dangrossman/daterangepick
 ### Find me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavvya-ramarathnam/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:kavvya.ramarathnam@gmail.com)
+
