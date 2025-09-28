@@ -6,6 +6,8 @@ I am a Software Development Engineer with a focus on distributed systems and bui
 
 I enjoy contributing to open-source projects, as it allows me to collaborate with the community while honing my technical skills. As a full-stack engineer, I have expertise in both frontend and backend technologies like Python, C#, JavaScript, Typescript, Node.js, Angular, React, SQL, MongoDB and PostgreSQL. I’ve gained experience designing and deploying microservice applications using Docker and Kubernetes.
 
+Check out my resume in this [link](https://drive.google.com/file/d/1oDPHCJR2Z6oYfe5oPmv2iUJ_szmtn32S/view?usp=sharing)
+
 ## Technical Skills
 
 ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
